@@ -7,7 +7,7 @@ This repository contains completed solutions for the Python tasks. Includes the 
 
 - 📄 [python_task_1.py](python_task_1.py)
 - 📄 [python_task_2.py](python_task_2.py)
-- 📄 [excel_assessment.xlsm](excel_task.xlsm)
+- 📄 [excel_task.xlsm](excel_task.xlsm)
 
 ## Task Completion
 
